@@ -1,3 +1,3 @@
 ### hello-world
 
-go init mod github.com/mgreenly/go/hello-world
+This is just a quick example that uses a module from this mono-repo.
